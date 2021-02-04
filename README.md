@@ -1,13 +1,5 @@
 # Netflix Clone
 
-              It is a simple single page project that is inspired by the
-              original YouTube.<br />
-              The YT data in this project is used are fake data(Views,
-              Timestamp, Title, ChannelName, Poster). It was created for fun
-              time. In this Project User can search(but it only opens the
-              netflix page).<br />
-              React JS, Google Firebase(Deployment, Hosting) & Material UI are
-              used in this Project.
 It is a simple single page project that is inspired by the Original YouTube.<br />
 The YT data in this project is used are fake data(Views, Timestamp, Title, ChannelName, Poster).<br/>
 It was created for funtime, In this Project User can search(but it only opens the netflix page).<br />
