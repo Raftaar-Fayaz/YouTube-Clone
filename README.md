@@ -1,4 +1,4 @@
-# Netflix Clone
+# YouTube Clone
 
 It is a simple single page project that is inspired by the Original YouTube.<br />
 The YT data in this project is used are fake data(Views, Timestamp, Title, ChannelName, Poster).<br/>
